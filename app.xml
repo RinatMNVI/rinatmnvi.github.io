@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1575937694092" uri="https://rinatmnvi.github.io/" launch="ru.kartezs.eventcather.Main">
+<Application ts="1575938140508" uri="https://github.com/RinatMNVI/rinatmnvi.github.io/blob/master/" launch="ru.kartezs.eventcather.Main">
     <lib file="controlsfx.jar" checksum="1165545135" size="1215643"/>
-    <lib file="eventcather-1.0-SNAPSHOT.jar" checksum="124361831" size="425776"/>
+    <lib file="eventcather-1.0-SNAPSHOT.jar" checksum="1676248960" size="425792"/>
     <lib file="hamcrest-core.jar" checksum="3977641857" size="76643"/>
     <lib file="jfoenix.jar" checksum="4046310510" size="2405714"/>
     <lib file="json-simple.jar" checksum="2507879787" size="23931"/>
