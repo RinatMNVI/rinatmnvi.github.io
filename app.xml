@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application ts="1575935863331" uri="file:///D:/test/" launch="ru.kartezs.eventcather.Main">
+    <lib file="controlsfx.jar" checksum="1165545135" size="1215643"/>
+    <lib file="eventcather-1.0-SNAPSHOT.jar" checksum="624064022" size="425795"/>
+    <lib file="hamcrest-core.jar" checksum="3977641857" size="76643"/>
+    <lib file="jfoenix.jar" checksum="4046310510" size="2405714"/>
+    <lib file="json-simple.jar" checksum="2507879787" size="23931"/>
+    <lib file="junit.jar" checksum="2133643024" size="253160"/>
+    <lib file="lombok.jar" checksum="2095848452" size="1699593"/>
+    <updateText>Updating...</updateText>
+    <updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+    <progressBarStyle>-fx-pref-width: 200;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+    <parameters>--myOption=myValue --myOtherOption=myOtherValue</parameters>
+    <cacheDir>USERLIB/Ano-notifier</cacheDir>
+    <acceptDowngrade>false</acceptDowngrade>
+    <stopOnUpdateErrors>false</stopOnUpdateErrors>
+    <lingeringUpdateScreen>false</lingeringUpdateScreen>
+</Application>
